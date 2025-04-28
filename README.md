@@ -1,2 +1,8 @@
 # adrive_speed
-AksTis Drive Speed Test Script
+**AksTis Drive Speed Test Script**
+
+## Описание
+
+Универсальный скрипт для запуска тестирования скорости чтения накопителей
+
+Для тестирования используется hdparm
