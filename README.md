@@ -1,4 +1,4 @@
-# adrive_speed
+# adrive-speed
 **AksTis Drive Speed Test Script**
 
 ## Описание
